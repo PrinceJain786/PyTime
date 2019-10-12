@@ -4,7 +4,7 @@
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/PyTime.svg)](https://pypi.python.org/pypi/pytime/)
 
 PyTime is an easy-use Python module which aims to operate date/time/datetime by string.
-
+#this is a learning step
 PyTime allows you using nonregular datetime string to generate and calculate datetime at most situation.
 
 It Also provides you some simple useful methods for getting datetime you want.
